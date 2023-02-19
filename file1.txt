@@ -1,6 +1,10 @@
 heloo f,xmhk
 kjhklja
 kljlak
+B
+
+Hello this is the ne line to confirm the commit
+A
 riend
 
 
