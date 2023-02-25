@@ -1,1 +1,6 @@
+add new branch and trying to merge
+B
+
+C
+
 we are trying merging on same file
