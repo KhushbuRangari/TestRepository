@@ -1,3 +1,8 @@
 
-Add new line for new line
+add new branch and trying to merge
+B
+
+C
+
+>>>>>>> khu
 we are trying merging on same file
