@@ -4,5 +4,5 @@ B
 
 C
 
->>>>>>> khu
+>>>>>>> khushbu rangari
 we are trying merging on same file
