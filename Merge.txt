@@ -1,8 +1,4 @@
 
 add new branch and trying to merge
-B
-
-C
-
 >>>>>>> khushbu rangari
 we are trying merging on same file
